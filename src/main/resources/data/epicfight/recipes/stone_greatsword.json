@@ -8,7 +8,7 @@
     ],
     "key":
     {
-        "B": { "item" : "minecraft:cobblestone" },
+        "B": { "tag" : "minecraft:stone_tool_materials" },
         "S": { "tag" : "minecraft:planks" }
     },
     "result":
